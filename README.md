@@ -291,7 +291,6 @@ AI Agents Query (RAG-based Safety Prediction)
 Safety Recommendations & Compliance Reports
 ```
 
----
 
 ## 🗺️ Roadmap
 
