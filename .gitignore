@@ -1,0 +1,11 @@
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore large archives
+*.zip
+*.mwb.bak
+
+# Ignore python cache
+__pycache__/
+*.pyc
